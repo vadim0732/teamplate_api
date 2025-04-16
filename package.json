@@ -13,5 +13,13 @@
   "dependencies": {
     "express": "^5.1.0",
     "nodemon": "^3.1.9"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vadim0732/teamplate_api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vadim0732/teamplate_api/issues"
+  },
+  "homepage": "https://github.com/vadim0732/teamplate_api#readme"
 }
